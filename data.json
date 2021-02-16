@@ -3,6 +3,17 @@
 		{
 			"talk": [
 				{
+					"title": "TBD",
+					"type": "Talk"
+				}
+			],
+			"name": "My Awesome Talk",
+			"date": "2021-02-16",
+			"country": "online"
+		},
+		{
+			"talk": [
+				{
 					"title": "JS UX",
 					"type": "Keynote"
 				}
